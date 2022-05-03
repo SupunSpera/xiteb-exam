@@ -5,7 +5,7 @@ run following commands after cloning </br>
 composer install </br>
 php artisan key:generate </br>
 php artisan storage:link </br>
-php artisan migrate </br>
+php artisan migrate:fresh </br>
 php artisan db:seed AdminSeeder </br>
 
 <h6>database requirement </h6> </br>
